@@ -1,4 +1,4 @@
-sample,ShearStrength,Compressivestrengthofconcrete,ShearStressrange,Size,BeamTest,DirectShearTest,PushOutTest,AdhesiveAnchor,BlindBoltShearConnector,ChannelConnectors,ClusterStud,CorrodedStud,DoubleNutBolt,HASEAdhesiveAnchor,HighTensionFrictionGripBolt,LConnectors,Perfobondrib,Perfobondribgroup,Perforatedshearconnector,PostInstalledWeldedStud,PuzzleStrip,Stud,TheCoiledSpringPin,WedgeBoltConcreteScrew,Ytypeperfobondrib,Log(cycle)
+sample,ShearStrength,Compressivestrengthofconcrete,ShearStressrange,Size,BeamTest,DirectShearTest,PushOutTest,AdhesiveAnchor,BlindBoltShearConnector,ChannelConnectors,ClusterStud,CorrodedStud,DoubleNutBolt,HASEAdhesiveAnchor,HighTensionFrictionGripBolt,LConnectors,Perfobondrib,Perfobondribgroup,Perforatedshearconnector,PostInstalledWeldedStud,PuzzleStrip,Stud,TheCoiledSpringPin,WedgeBoltConcreteScrew,Ytypeperfobondrib,cycle
 1,-1.941998236,0.5227803,0.95762594,0.598079693,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5.378397901
 2,-1.941998236,0.56060576,-0.621877518,0.598079693,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5.963787827
 3,-1.941998236,0.645713048,-1.501735149,0.598079693,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6.263399331
